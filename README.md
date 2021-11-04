@@ -43,7 +43,7 @@ Project created by <a href="https://github.com/A4edits">sushilanv2</a> to make i
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sushilanv2/sushilanv2.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/A4edits/sushilanv2.git)
 
 
 
